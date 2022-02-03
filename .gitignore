@@ -7,6 +7,10 @@ Release
 Release_Build
 Debug
 Debug_Build
+app/consapp/convbin/gcc/convbin
+app/consapp/pos2kml/gcc/pos2kml
+app/consapp/rtkrcv/gcc/rtkrcv
+app/consapp/str2str/gcc/str2str
 __history
 __astcache
 
